@@ -1,5 +1,5 @@
 print('hello world!')
-print('hello my friends and family')
+print('hello my friends, family and my dog')
 #comentarios...
 
 print('correção de erro critico')
